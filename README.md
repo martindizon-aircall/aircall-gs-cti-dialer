@@ -5,7 +5,9 @@ Install a small application inside Google Sheets that will enable the following 
 - Click-to-Dial
 - Create Dialer Campaigns
 
-This is possible because Aircall has a broad and well-document public REST API! But please keep in mind the following:
+This is possible because Aircall has a broad and well-document public REST API! This version of the application supports only one Google Sheet per one Aircall User.
+
+But please keep in mind the following:
 
 - Installation only needs to be performed once — after, the agent can use the application as many times as they want (without needing to install again)
 - In the current version, this application needs to be installed per Google Sheet
